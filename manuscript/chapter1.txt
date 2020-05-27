@@ -1,5 +1,5 @@
 {sample: true}
-# Chapter One
+# Chapter One : Introduction
 
 Hello WOrld! This is test to check if i am able to push things forward. I think i am able to set the details now.
 This is an example chapter of a Leanpub book.  To start writing your book, simply replace the contents of this text box with your first chapter.

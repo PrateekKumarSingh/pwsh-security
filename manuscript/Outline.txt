@@ -1,0 +1,12 @@
+# Part 1 : Understanding PowerShell Fundamentals
+# # Chapter One : Introduction
+    1.1 Why this book?
+    1.2 Who is this book for?
+	1.3 Expectations from this book.
+	1.4 What you should not expect from this book?
+	1.5 PowerShell & Security handshake
+	1.6 Let's get started
+# # Chapter Two : POwerShell Fundamentals
+    2.1 Installation and Setup
+    2.2 Configuration
+    2.3 
